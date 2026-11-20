@@ -1,0 +1,21 @@
+{
+  "repository": "timeweb_synergy_rnn_transformer_benchmark",
+  "public_source_files": 12,
+  "excluded_offline_only": [
+    "results/article-06-uci-har-gru-transformer.png"
+  ],
+  "sha256": {
+    ".gitignore": "d9d3d414f6f84c0ef3d8b09d59f49f6c2c173fab18219c9fa262db2383820cf5",
+    "README.md": "81ef61e4ce5f39ce9d9a4cec6405d50b38715b0ea4705d950623b92ff503bc67",
+    "prototypes/__init__.py": "7ea3e33621d03c4e3e2271d2e93e55721d45d99472f589fa698ec105fcddfdb6",
+    "prototypes/__main__.py": "c63aff76bcd5a382a42c8d13eb3c2f5fb2c564b451bdfd20819631c3725055d6",
+    "prototypes/real_experiments/article06_har_sequences.py": "628248270f984f4a83b94472124685573675982bfd107d06ec5f2836bf926f7a",
+    "prototypes/runner.py": "3e1a59a8d2260be864749b4aa583961569fdcbee7b161f1025ae3725a841306f",
+    "prototypes/scenarios/__init__.py": "60d32f11ef7875e4b24eedf3a631281803e0295a8206e39819cf2cae243632f8",
+    "prototypes/scenarios/article06.py": "a175d854bb2b7363e853620164a13906b309e0ba36bab33494301e2b995e5c47",
+    "prototypes/tests/test_article06_real_sequence.py": "d828acb95c88310a589c30ad72ede149236eab2b111f054d2d75f7587a57c685",
+    "prototypes/tests/test_articles_06_08.py": "939532947566339866a3429c541e5ab69a6cdcbe9a36c00e07bffd3ed0f22ce4",
+    "requirements.txt": "12b84930f4edd3f3d1fde62f07d61110a07a88bdfb5acc5338f7fda8a61b8247",
+    "results/article-06-uci-har-sequences-20261117T150945.522236Z.json": "a890c954e1414d2980405363ed2ae0d679c276073f24ee91ae5c0f58cdec9f97"
+  }
+}
