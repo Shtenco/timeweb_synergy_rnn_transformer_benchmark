@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "При использовании исходного кода укажите репозиторий и точный коммит."
+title: "SYNERGY HIAI 06: GRU и Transformer на одинаковом бюджете"
+type: software
+authors:
+  - name: "SYNERGY contributors"
+repository-code: "https://github.com/Shtenco/timeweb_synergy_rnn_transformer_benchmark"
+license: MIT
